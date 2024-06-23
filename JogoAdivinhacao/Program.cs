@@ -5,8 +5,7 @@ class Program
     {
         Random random = new Random();
         
-
-        Console.WriteLine("Joga da adivinhação.");
+        Console.WriteLine("Bem-vindas(os) ao jogo da adivinhação. Neste jogo você terá 3 tentativas para adivinhar qual número foi sorteado a partir do intervalo que você inseriu. \nBoa sorte!!");
     
         int numeroMinimo = 0;
         int numeroMaximo = 0;
@@ -29,7 +28,6 @@ class Program
 
         int numeroAleatorio = random.Next(numeroMinimo,numeroMaximo + 1);
 
-        int tentativas = 0;
         int numeroTestado = 0;
         int numeroVezes = 3;
 
@@ -52,7 +50,6 @@ class Program
                 }else
                 {
                     --numeroVezes;
-                    ++tentativas;
                     if(numeroVezes > 0)
                     {
                         

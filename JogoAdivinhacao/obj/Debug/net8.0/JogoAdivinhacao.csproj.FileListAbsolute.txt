@@ -26,3 +26,4 @@ C:\curso_ATOS_CSharp\POO\JogoAdivinhacao\obj\Debug\net8.0\refint\JogoAdivinhacao
 C:\curso_ATOS_CSharp\POO\JogoAdivinhacao\obj\Debug\net8.0\JogoAdivinhacao.pdb
 C:\curso_ATOS_CSharp\POO\JogoAdivinhacao\obj\Debug\net8.0\JogoAdivinhacao.genruntimeconfig.cache
 C:\curso_ATOS_CSharp\POO\JogoAdivinhacao\obj\Debug\net8.0\ref\JogoAdivinhacao.dll
+C:\curso_ATOS_CSharp\POO\JogoAdivinhacao\obj\Debug\net8.0\JogoAdivinhacao.sourcelink.json

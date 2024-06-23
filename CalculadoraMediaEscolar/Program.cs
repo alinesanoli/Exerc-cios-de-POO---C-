@@ -3,7 +3,6 @@ class Program
 {
     public static void Main(String[] args)
     {
-        
         double[] notas = new double[4];
         double media = 0;
         double soma = 0;
@@ -13,14 +12,11 @@ class Program
         Console.Write("Insira o nome do aluno: ");
         string nome = Console.ReadLine();
 
-
-
         for(int i = 0; i < 4; i++){
             while(true)
            {
                 Console.WriteLine($"Insira a nota {i+1} da(o) aluna(o) {nome}: ");
                 double nota = double.Parse(Console.ReadLine());
-
 
                 if(nota > 0.0 && nota <= 10.0)
                 {
@@ -34,7 +30,6 @@ class Program
                 }
            }
       
-
         }
          
         foreach(double nota in notas)
@@ -43,7 +38,7 @@ class Program
         }
 
         media = soma / 4;
-        //Console.WriteLine(soma);
+        
         if(media >= 7)
         {
             Console.WriteLine($"A(o) aluna(o) {nome} foi aprovada(o) com a média {media}.");
@@ -56,8 +51,7 @@ class Program
         {
             Console.WriteLine($"A(o) aluna(o) {nome} está de reprovada(o) com a média {media}.");
         }
-
-        
+ 
         
     }
 }

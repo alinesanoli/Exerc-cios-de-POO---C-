@@ -8,10 +8,11 @@ class Program
         double celsius = 0;
         double fahrenheit = 0;
 
-        Console.WriteLine("Conversor de temperaturas entre Celsius e Fahrenheit");
+        Console.WriteLine("Conversor de temperatura: Celsius e Fahrenheit");
 
         Console.WriteLine("1 - Para converter de Celsius para Fahrenheit. \n2 - Para converter de Fahrenheit para Celsius.");
         int opcao = int.Parse(Console.ReadLine());
+
 
         switch(opcao)
         {
@@ -30,7 +31,7 @@ class Program
             break;
 
             default:
-            Console.WriteLine("Nenhuma das opção válida foi inserida");
+            Console.WriteLine("Nenhuma das opções válidas foi inserida");
             break;
         }
     }

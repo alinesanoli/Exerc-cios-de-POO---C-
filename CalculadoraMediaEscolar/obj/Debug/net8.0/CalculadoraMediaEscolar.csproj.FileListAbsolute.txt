@@ -26,3 +26,4 @@ C:\curso_ATOS_CSharp\POO\CalculadoraMediaEscolar\obj\Debug\net8.0\refint\Calcula
 C:\curso_ATOS_CSharp\POO\CalculadoraMediaEscolar\obj\Debug\net8.0\CalculadoraMediaEscolar.pdb
 C:\curso_ATOS_CSharp\POO\CalculadoraMediaEscolar\obj\Debug\net8.0\CalculadoraMediaEscolar.genruntimeconfig.cache
 C:\curso_ATOS_CSharp\POO\CalculadoraMediaEscolar\obj\Debug\net8.0\ref\CalculadoraMediaEscolar.dll
+C:\curso_ATOS_CSharp\POO\CalculadoraMediaEscolar\obj\Debug\net8.0\CalculadoraMediaEscolar.sourcelink.json

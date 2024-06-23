@@ -26,3 +26,4 @@ C:\curso_ATOS_CSharp\POO\ConversorTemperatura\obj\Debug\net8.0\refint\ConversorT
 C:\curso_ATOS_CSharp\POO\ConversorTemperatura\obj\Debug\net8.0\ConversorTemperatura.pdb
 C:\curso_ATOS_CSharp\POO\ConversorTemperatura\obj\Debug\net8.0\ConversorTemperatura.genruntimeconfig.cache
 C:\curso_ATOS_CSharp\POO\ConversorTemperatura\obj\Debug\net8.0\ref\ConversorTemperatura.dll
+C:\curso_ATOS_CSharp\POO\ConversorTemperatura\obj\Debug\net8.0\ConversorTemperatura.sourcelink.json
