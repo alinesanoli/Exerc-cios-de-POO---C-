@@ -1,0 +1,14 @@
+C:\curso_ATOS_CSharp\bin\Debug\net8.0\curso_ATOS_CSharp.exe
+C:\curso_ATOS_CSharp\bin\Debug\net8.0\curso_ATOS_CSharp.deps.json
+C:\curso_ATOS_CSharp\bin\Debug\net8.0\curso_ATOS_CSharp.runtimeconfig.json
+C:\curso_ATOS_CSharp\bin\Debug\net8.0\curso_ATOS_CSharp.dll
+C:\curso_ATOS_CSharp\bin\Debug\net8.0\curso_ATOS_CSharp.pdb
+C:\curso_ATOS_CSharp\obj\Debug\net8.0\curso_ATOS_CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\curso_ATOS_CSharp\obj\Debug\net8.0\curso_ATOS_CSharp.AssemblyInfoInputs.cache
+C:\curso_ATOS_CSharp\obj\Debug\net8.0\curso_ATOS_CSharp.AssemblyInfo.cs
+C:\curso_ATOS_CSharp\obj\Debug\net8.0\curso_ATOS_CSharp.csproj.CoreCompileInputs.cache
+C:\curso_ATOS_CSharp\obj\Debug\net8.0\curso_ATOS_CSharp.dll
+C:\curso_ATOS_CSharp\obj\Debug\net8.0\refint\curso_ATOS_CSharp.dll
+C:\curso_ATOS_CSharp\obj\Debug\net8.0\curso_ATOS_CSharp.pdb
+C:\curso_ATOS_CSharp\obj\Debug\net8.0\curso_ATOS_CSharp.genruntimeconfig.cache
+C:\curso_ATOS_CSharp\obj\Debug\net8.0\ref\curso_ATOS_CSharp.dll

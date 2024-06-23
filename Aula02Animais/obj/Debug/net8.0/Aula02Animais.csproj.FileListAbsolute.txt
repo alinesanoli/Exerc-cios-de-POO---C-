@@ -1,0 +1,14 @@
+C:\curso_ATOS_CSharp\Aula02Animais\bin\Debug\net8.0\Aula02Animais.exe
+C:\curso_ATOS_CSharp\Aula02Animais\bin\Debug\net8.0\Aula02Animais.deps.json
+C:\curso_ATOS_CSharp\Aula02Animais\bin\Debug\net8.0\Aula02Animais.runtimeconfig.json
+C:\curso_ATOS_CSharp\Aula02Animais\bin\Debug\net8.0\Aula02Animais.dll
+C:\curso_ATOS_CSharp\Aula02Animais\bin\Debug\net8.0\Aula02Animais.pdb
+C:\curso_ATOS_CSharp\Aula02Animais\obj\Debug\net8.0\Aula02Animais.GeneratedMSBuildEditorConfig.editorconfig
+C:\curso_ATOS_CSharp\Aula02Animais\obj\Debug\net8.0\Aula02Animais.AssemblyInfoInputs.cache
+C:\curso_ATOS_CSharp\Aula02Animais\obj\Debug\net8.0\Aula02Animais.AssemblyInfo.cs
+C:\curso_ATOS_CSharp\Aula02Animais\obj\Debug\net8.0\Aula02Animais.csproj.CoreCompileInputs.cache
+C:\curso_ATOS_CSharp\Aula02Animais\obj\Debug\net8.0\Aula02Animais.dll
+C:\curso_ATOS_CSharp\Aula02Animais\obj\Debug\net8.0\refint\Aula02Animais.dll
+C:\curso_ATOS_CSharp\Aula02Animais\obj\Debug\net8.0\Aula02Animais.pdb
+C:\curso_ATOS_CSharp\Aula02Animais\obj\Debug\net8.0\Aula02Animais.genruntimeconfig.cache
+C:\curso_ATOS_CSharp\Aula02Animais\obj\Debug\net8.0\ref\Aula02Animais.dll
